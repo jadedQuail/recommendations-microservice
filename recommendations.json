@@ -1,185 +1,734 @@
 {
-    "Bohemian Rhapsody": ["Boulevard of Broken Dreams", "Mr. Blue Sky", "I'm So Excited"],
-    "Imagine": ["Let It Be", "Hallelujah", "What a Wonderful World"],
-    "Hotel California": ["Stairway to Heaven", "Dust in the Wind", "Riders on the Storm"],
-    "Smells Like Teen Spirit": ["Black Hole Sun", "Come As You Are", "Basket Case"],
-    "Sweet Child O' Mine": ["Livin' on a Prayer", "You Give Love a Bad Name", "Here I Go Again"],
-    "Hey Jude": ["Let It Be", "Bridge Over Troubled Water", "Piano Man"],
-    "Like a Rolling Stone": ["The Times They Are a-Changin'", "Blowin' in the Wind", "Subterranean Homesick Blues"],
-    "Rolling in the Deep": ["Someone Like You", "Set Fire to the Rain", "Stay"],
-    "Lose Yourself": ["Stronger", "Numb/Encore", "Power"],
-    "Stairway to Heaven": ["Kashmir", "Hotel California", "Free Bird"],
-    "What's Going On": ["Mercy Mercy Me (The Ecology)", "Inner City Blues", "A Change Is Gonna Come"],
-    "Purple Rain": ["Little Red Corvette", "When Doves Cry", "Nothing Compares 2 U"],
-    "Let It Be": ["Hey Jude", "Imagine", "Yesterday"],
-    "Superstition": ["I Wish", "Higher Ground", "Signed, Sealed, Delivered I'm Yours"],
-    "Uptown Funk": ["24K Magic", "Can't Stop the Feeling!", "Happy"],
-    "Smack That": ["In Da Club", "Candy Shop", "Yeah!"],
-    "Creep": ["Black Hole Sun", "The Man Who Sold the World", "Wonderwall"],
-    "I Will Survive": ["Respect", "Natural Woman", "It's Raining Men"],
-    "Stayin' Alive": ["Night Fever", "More Than a Woman", "Disco Inferno"],
-    "Hallelujah": ["The Sound of Silence", "Tears in Heaven", "Knockin' on Heaven's Door"],
-    "Back in Black": ["You Shook Me All Night Long", "Highway to Hell", "Paranoid"],
-    "Respect": ["Chain of Fools", "Think", "I Say a Little Prayer"],
-    "Livin' on a Prayer": ["Sweet Child O' Mine", "Don't Stop Believin'", "Here I Go Again"],
-    "Born to Run": ["Thunder Road", "Dancing in the Dark", "Glory Days"],
-    "Yesterday": ["Blackbird", "Let It Be", "Hey Jude"],
-    "Karma Police": ["No Surprises", "Paranoid Android", "High and Dry"],
-    "One": ["With or Without You", "I Still Haven't Found What I'm Looking For", "Beautiful Day"],
-    "Wonder": ["Only Wanna Be with You", "Crash Into Me", "If You Could Only See"],
-    "Goodbye Yellow Brick Road": ["Rocket Man", "Tiny Dancer", "Daniel"],
-    "Somebody to Love": ["Under Pressure", "Killer Queen", "We Are the Champions"],
-    "Nothing Else Matters": ["The Unforgiven", "Fade to Black", "Enter Sandman"],
-    "Hotel Yorba": ["Seven Nation Army", "Fell in Love with a Girl", "Blue Orchid"],
-    "Take on Me": ["Everybody Wants to Rule the World", "Don't You (Forget About Me)", "Hungry Like the Wolf"],
-    "Bad Romance": ["Poker Face", "Born This Way", "Just Dance"],
-    "Someone Like You": ["Hello", "All I Ask", "Rolling in the Deep"],
-    "Come As You Are": ["Smells Like Teen Spirit", "Lithium", "Heart-Shaped Box"],
-    "Chandelier": ["Elastic Heart", "Cheap Thrills", "Breathe Me"],
-    "Firework": ["Roar", "Teenage Dream", "California Gurls"],
-    "Africa": ["Rosanna", "Hold the Line", "Separate Ways (Worlds Apart)"],
-    "Smooth Criminal": ["Thriller", "Beat It", "Billie Jean"],
-    "Shape of You": ["Thinking Out Loud", "Perfect", "Castle on the Hill"],
-    "In the End": ["Numb", "Crawling", "Somewhere I Belong"],
-    "Let Her Go": ["All of Me", "A Thousand Years", "Stay With Me"],
-    "Thinking Out Loud": ["Perfect", "Shape of You", "Photograph"],
-    "Crazy": ["Back to Black", "Valerie", "Rehab"],
-    "Sweet Home Alabama": ["Free Bird", "Ramblin' Man", "The Weight"],
-    "Toxic": ["Oops!... I Did It Again", "Baby One More Time", "Stronger"],
-    "Piano Man": ["Scenes from an Italian Restaurant", "Just the Way You Are", "She's Always a Woman"],
-    "Eye of the Tiger": ["We Will Rock You", "Final Countdown", "Living on a Prayer"],
-    "All of Me": ["Let Her Go", "Stay With Me", "Thinking Out Loud"],
-    "Highway to Hell": ["Back in Black", "You Shook Me All Night Long", "Thunderstruck"],
-    "A Thousand Miles": ["Unwritten", "Complicated", "Because of You"],
-    "Wish You Were Here": ["Comfortably Numb", "Shine On You Crazy Diamond", "Time"],
-    "Uptown Girl": ["Only the Good Die Young", "My Life", "We Didn't Start the Fire"],
-    "The Chain": ["Dreams", "Go Your Own Way", "Rhiannon"],
-    "Don't Stop Believin'": ["Livin' on a Prayer", "Here I Go Again", "Sweet Child O' Mine"],
-    "Under the Bridge": ["Scar Tissue", "Californication", "Dani California"],
-    "Lose Yourself to Dance": ["Get Lucky", "Harder, Better, Faster, Stronger", "Around the World"],
-    "Beat It": ["Thriller", "Billie Jean", "Smooth Criminal"],
-    "I Want to Break Free": ["Another One Bites the Dust", "Radio Ga Ga", "Crazy Little Thing Called Love"],
-    "Welcome to the Jungle": ["Paradise City", "Sweet Child O' Mine", "Nightrain"],
-    "Hey Ya!": ["Ms. Jackson", "Roses", "So Fresh, So Clean"],
-    "Man in the Mirror": ["Heal the World", "Earth Song", "You Are Not Alone"],
-    "Enter Sandman": ["Master of Puppets", "One", "For Whom the Bell Tolls"],
-    "The Sound of Silence": ["Scarborough Fair", "Bridge Over Troubled Water", "Mrs. Robinson"],
-    "My Heart Will Go On": ["Unchained Melody", "I Will Always Love You", "Somewhere Over the Rainbow"],
-    "Poker Face": ["Just Dance", "Bad Romance", "Born This Way"],
-    "Another Brick in the Wall": ["Comfortably Numb", "Money", "Time"],
-    "I Gotta Feeling": ["Boom Boom Pow", "Where Is the Love?", "Let's Get It Started"],
-    "Livin' La Vida Loca": ["She Bangs", "Hips Don't Lie", "Bailando"],
-    "Clocks": ["Fix You", "Yellow", "The Scientist"],
-    "Somebody That I Used to Know": ["Some Nights", "We Are Young", "Take Me to Church"],
-    "Yellow": ["Fix You", "Clocks", "The Scientist"],
-    "Royals": ["Team", "Buzzcut Season", "Tennis Court"],
-    "Oops!... I Did It Again": ["Baby One More Time", "Toxic", "Womanizer"],
-    "Blinding Lights": ["Save Your Tears", "Can't Feel My Face", "Take My Breath"],
-    "Don't Let Me Down": ["Roses", "Closer", "Paris"],
-    "Iris": ["Slide", "Name", "Sympathy"],
-    "Umbrella": ["Disturbia", "Only Girl (In the World)", "Diamonds"],
-    "Riptide": ["Mess Is Mine", "Georgia", "From Afar"],
-    "Bad Guy": ["When the Party's Over", "Bury a Friend", "Ocean Eyes"],
-    "Tears in Heaven": ["Wonderful Tonight", "Layla", "Change the World"],
-    "Castle on the Hill": ["Perfect", "Shape of You", "Thinking Out Loud"],
-    "Gangnam Style": ["Gentleman", "Harlem Shake", "What Does the Fox Say?"],
-    "Can't Stop the Feeling!": ["Happy", "Uptown Funk", "24K Magic"],
-    "Wake Me Up": ["Hey Brother", "The Nights", "Levels"],
-    "Rockstar": ["Psycho", "Better Now", "Circles"],
-    "Despacito": ["Bailando", "Havana", "Mi Gente"],
-    "Halo": ["If I Were a Boy", "Single Ladies", "Run the World (Girls)"],
-    "Viva La Vida": ["Clocks", "The Scientist", "Yellow"],
-    "Survivor": ["Say My Name", "Independent Women", "Jumpin', Jumpin'"],
-    "Stronger": ["Power", "Can't Tell Me Nothing", "Runaway"],
-    "Shake It Off": ["Blank Space", "Love Story", "You Belong With Me"],
-    "Hello": ["Someone Like You", "Rolling in the Deep", "All I Ask"],
-    "All Star": ["I'm a Believer", "Walkin' on the Sun", "Why Can't We Be Friends?"],
-    "Crazy in Love": ["Single Ladies", "Halo", "Run the World (Girls)"],
-    "Call Me Maybe": ["Good Time", "I Really Like You", "This Kiss"],
-    "One More Time": ["Harder, Better, Faster, Stronger", "Around the World", "Digital Love"],
-    "Fireflies": ["Vanilla Twilight", "Hello Seattle", "The Saltwater Room"],
-    "Wonderwall": ["Champagne Supernova", "Don't Look Back in Anger", "Stop Crying Your Heart Out"],
-    "Sorry": ["What Do You Mean?", "Love Yourself", "Peaches"],
-    "Radioactive": ["Demons", "It's Time", "Believer"],
-    "Old Town Road": ["The Git Up", "Lil Nas X - Panini", "Fancy Like"],
-    "Havana": ["Señorita", "Never Be the Same", "My Oh My"],
-    "Take Me to Church": ["Cherry Wine", "From Eden", "Someone New"],
-    "Lean On": ["Cold Water", "Light It Up", "Where Are Ü Now"],
-    "Let Me Love You": ["Cold Water", "2U", "Sorry"],
-    "Sunflower": ["Circles", "Better Now", "Wow"],
-    "Shallow": ["Always Remember Us This Way", "I'll Never Love Again", "Is That Alright?"],
-    "Happier": ["Alone", "Friends", "Silence"],
-    "Dancing Queen": ["Mamma Mia", "Take a Chance on Me", "Waterloo"],
-    "Rock with You": ["Off the Wall", "Don't Stop 'Til You Get Enough", "Thriller"],
-    "Lose My Breath": ["Say My Name", "Jumpin', Jumpin'", "Independent Women"],
-    "Counting Stars": ["Apologize", "Secrets", "Stop and Stare"],
-    "Party Rock Anthem": ["Sexy and I Know It", "Shots", "Champagne Showers"],
-    "U Can't Touch This": ["Ice Ice Baby", "Push It", "Bust a Move"],
-    "Pumped Up Kicks": ["Helena Beat", "Houdini", "Call It What You Want"],
-    "Girls Like You": ["Memories", "Sugar", "Maps"],
-    "I Want It That Way": ["As Long as You Love Me", "Quit Playing Games", "Everybody (Backstreet's Back)"],
-    "Sorry Not Sorry": ["Heart Attack", "Cool for the Summer", "Give Your Heart a Break"],
-    "Super Bass": ["Starships", "Bang Bang", "Anaconda"],
-    "One Dance": ["Hotline Bling", "Controlla", "Too Good"],
-    "Hotline Bling": ["One Dance", "Started from the Bottom", "Take Care"],
-    "Blurred Lines": ["Get Lucky", "Suit & Tie", "SexyBack"],
-    "Rock Your Body": ["Cry Me a River", "Like I Love You", "My Love"],
-    "Feel Good Inc.": ["Clint Eastwood", "19-2000", "DARE"],
-    "I Knew You Were Trouble": ["Shake It Off", "Love Story", "Blank Space"],
-    "Rude": ["Let Her Go", "Say You Won't Let Go", "Stay With Me"],
-    "Happy": ["Get Lucky", "Blurred Lines", "Lose Yourself to Dance"],
-    "Don't Stop the Music": ["Disturbia", "Umbrella", "Only Girl (In the World)"],
-    "We Are Young": ["Some Nights", "Carry On", "Why Am I the One"],
-    "Some Nights": ["We Are Young", "Carry On", "Why Am I the One"],
-    "Somebody Told Me": ["Mr. Brightside", "When You Were Young", "Human"],
-    "Boulevard of Broken Dreams": ["21 Guns", "Wake Me Up When September Ends", "Holiday"],
-    "Gives You Hell": ["Move Along", "Dirty Little Secret", "It Ends Tonight"],
-    "Wrecking Ball": ["Party in the U.S.A.", "The Climb", "Can't Be Tamed"],
-    "Say My Name": ["Survivor", "Jumpin', Jumpin'", "Independent Women"],
-    "Don't Speak": ["Just a Girl", "Spiderwebs", "Underneath It All"],
-    "Bye Bye Bye": ["It's Gonna Be Me", "Tearin' Up My Heart", "Pop"],
-    "Genie in a Bottle": ["Come On Over Baby", "What a Girl Wants", "Beautiful"],
-    "Since U Been Gone": ["Because of You", "Stronger", "Breakaway"],
-    "Hot Stuff": ["I Will Survive", "It's Raining Men", "Staying Alive"],
-    "Every Breath You Take": ["Roxanne", "Don't Stand So Close to Me", "Message in a Bottle"],
-    "The Way You Make Me Feel": ["Thriller", "Billie Jean", "Smooth Criminal"],
-    "Kiss": ["Purple Rain", "When Doves Cry", "Raspberry Beret"],
-    "Ain't No Sunshine": ["Lean on Me", "Just the Two of Us", "Lovely Day"],
-    "Brown Eyed Girl": ["Moondance", "Domino", "Into the Mystic"],
-    "Mr. Brightside": ["Somebody Told Me", "When You Were Young", "All These Things That I've Done"],
-    "Thriller": ["Beat It", "Smooth Criminal", "Billie Jean"],
-    "American Pie": ["Vincent", "Castles in the Air", "Crying"],
-    "Free Fallin'": ["Runnin' Down a Dream", "You Don't Know How It Feels", "Learning to Fly"],
-    "Sweet Dreams": ["Here Comes the Rain Again", "Love Is a Stranger", "Would I Lie to You?"],
-    "With or Without You": ["I Still Haven't Found What I'm Looking For", "One", "Where the Streets Have No Name"],
-    "Take It Easy": ["Hotel California", "Peaceful Easy Feeling", "Lyin' Eyes"],
-    "Go Your Own Way": ["Dreams", "The Chain", "Don't Stop"],
-    "Rock and Roll All Nite": ["Detroit Rock City", "Love Gun", "Shout It Out Loud"],
-    "You Give Love a Bad Name": ["Livin' on a Prayer", "Wanted Dead or Alive", "Runaway"],
-    "Crazy Little Thing Called Love": ["We Will Rock You", "Another One Bites the Dust", "Under Pressure"],
-    "Sweet Emotion": ["Walk This Way", "Dream On", "Back in the Saddle"],
-    "Don't Stop 'Til You Get Enough": ["Rock with You", "Off the Wall", "Working Day and Night"],
-    "Jack & Diane": ["Hurt So Good", "Pink Houses", "Small Town"],
-    "Billie Jean": ["Thriller", "Beat It", "The Way You Make Me Feel"],
-    "Sweet Caroline": ["Cracklin' Rosie", "America", "Song Sung Blue"],
-    "Dream On": ["Sweet Emotion", "Walk This Way", "Back in the Saddle"],
-    "Message in a Bottle": ["Every Breath You Take", "Roxanne", "Don't Stand So Close to Me"],
-    "I Want You Back": ["ABC", "I'll Be There", "Never Can Say Goodbye"],
-    "My Girl": ["Ain't Too Proud to Beg", "Papa Was a Rollin' Stone", "Just My Imagination"],
-    "Let's Stay Together": ["Ain't No Sunshine", "Lean on Me", "Lovely Day"],
-    "Tiny Dancer": ["Rocket Man", "Goodbye Yellow Brick Road", "Your Song"],
-    "Blackbird": ["Yesterday", "Let It Be", "Here Comes the Sun"],
-    "Fast Car": ["Give Me One Reason", "Baby Can I Hold You", "Talkin' 'Bout a Revolution"],
-    "Rocket Man": ["Tiny Dancer", "Goodbye Yellow Brick Road", "Daniel"],
-    "The Weight": ["Up on Cripple Creek", "The Night They Drove Old Dixie Down", "Ophelia"],
-    "I Will Always Love You": ["Greatest Love of All", "Run to You", "Saving All My Love for You"],
-    "Drops of Jupiter": ["Meet Virginia", "Calling All Angels", "Hey, Soul Sister"],
-    "Mr. Jones": ["Round Here", "A Long December", "Hanginaround"],
-    "Come Together": ["Something", "Here Comes the Sun", "Octopus's Garden"],
-    "Walking on Sunshine": ["I'm Walking on Sunshine", "Love Shack", "Manic Monday"],
-    "Born to Be Wild": ["Magic Carpet Ride", "The Pusher", "Rock Me"],
-    "Good Vibrations": ["Wouldn't It Be Nice", "God Only Knows", "Sloop John B"],
-    "Take Me Home, Country Roads": ["Rocky Mountain High", "Sunshine on My Shoulders", "Annie's Song"],
-    "Light My Fire": ["Break on Through (To the Other Side)", "People Are Strange", "Riders on the Storm"],
-    "Jolene": ["Coat of Many Colors", "I Will Always Love You", "9 to 5"]
+    "Bohemian Rhapsody": {
+        "recommendations": ["Hotel California", "Dream On", "More Than a Feeling"],
+        "explanation": "These are iconic rock epics with powerful vocals, dramatic shifts, and unforgettable melodies."
+    },
+    "Imagine": {
+        "recommendations": ["What a Wonderful World", "Blowin' in the Wind", "The Sound of Silence"],
+        "explanation": "These are heartfelt and introspective tracks with timeless, meaningful lyrics."
+    },
+    "Hotel California": {
+        "recommendations": ["Free Bird", "Turn the Page", "Dust in the Wind"],
+        "explanation": "These are timeless rock ballads with rich storytelling and captivating instrumentation."
+    },
+    "Smells Like Teen Spirit": {
+        "recommendations": ["Plush", "Black Hole Sun", "Santa Monica"],
+        "explanation": "These are grunge and alternative rock anthems with raw energy, iconic riffs, and introspective themes."
+    },
+    "Sweet Child O' Mine": {
+        "recommendations": ["Wanted Dead or Alive", "Here I Go Again", "Barracuda"],
+        "explanation": "These are hard rock anthems with soaring vocals, powerful guitars, and dynamic energy."
+    },
+    "Hey Jude": {
+        "recommendations": ["Your Song", "Piano Man", "Lean on Me"],
+        "explanation": "These are moving and piano-driven ballads with heartfelt lyrics and timeless melodies."
+    },
+    "Like a Rolling Stone": {
+        "recommendations": ["House of the Rising Sun", "For What It's Worth", "American Pie"],
+        "explanation": "These are folk-rock classics known for their storytelling and thought-provoking lyrics."
+    },
+    "Rolling in the Deep": {
+        "recommendations": ["Stay With Me", "Hallelujah", "Total Eclipse of the Heart"],
+        "explanation": "These are soulful ballads with emotional intensity and powerful vocal performances."
+    },
+    "Lose Yourself": {
+        "recommendations": ["Can't Hold Us", "Till I Collapse", "Run This Town"],
+        "explanation": "These are motivational tracks with powerful beats and themes of resilience and determination."
+    },
+    "Stairway to Heaven": {
+        "recommendations": ["Comfortably Numb", "Layla", "Bohemian Rhapsody"],
+        "explanation": "These are legendary rock epics with intricate arrangements and enduring appeal."
+    },
+    "What's Going On": {
+        "recommendations": ["A Change Is Gonna Come", "People Get Ready", "Lean on Me"],
+        "explanation": "These are soulful tracks with themes of social justice and emotional depth."
+    },
+    "Purple Rain": {
+        "recommendations": ["Kiss from a Rose", "Careless Whisper", "I Will Always Love You"],
+        "explanation": "These are emotional ballads with lush instrumentation and deeply moving performances."
+    },
+    "Let It Be": {
+        "recommendations": ["Hallelujah", "The Boxer", "Imagine"],
+        "explanation": "These are reflective and emotional tracks with heartfelt lyrics and timeless appeal."
+    },
+    "Superstition": {
+        "recommendations": ["Let's Groove", "Play That Funky Music", "Pick Up the Pieces"],
+        "explanation": "These are funky and soulful tracks with iconic grooves and timeless rhythms."
+    },
+    "Uptown Funk": {
+        "recommendations": ["Treasure", "Blurred Lines", "Get Lucky"],
+        "explanation": "These are upbeat and danceable tracks with infectious energy and retro-inspired vibes."
+    },
+    "Smack That": {
+        "recommendations": ["Tipsy", "Lollipop", "Get Low"],
+        "explanation": "These are club anthems with catchy beats and party-ready energy."
+    },
+    "Creep": {
+        "recommendations": ["Disarm", "Jeremy", "The World I Know"],
+        "explanation": "These are introspective alternative rock tracks with haunting melodies and emotional depth."
+    },
+    "I Will Survive": {
+        "recommendations": ["I’m Every Woman", "Ain’t No Mountain High Enough", "We Are Family"],
+        "explanation": "These are empowering anthems with strong vocal performances and uplifting themes."
+    },
+    "Stayin' Alive": {
+        "recommendations": ["Le Freak", "Boogie Wonderland", "Shake Your Groove Thing"],
+        "explanation": "These are disco classics with groovy rhythms and high-energy dance vibes."
+    },
+    "Hallelujah": {
+        "recommendations": ["Bridge Over Troubled Water", "Imagine", "Let It Be"],
+        "explanation": "These are soulful and profound tracks with deeply emotional lyrics and melodies."
+    },
+    "Back in Black": {
+        "recommendations": ["Smoke on the Water", "Whole Lotta Love", "You Really Got Me"],
+        "explanation": "These are hard rock classics with powerful riffs and electrifying energy."
+    },
+    "Respect": {
+        "recommendations": ["Think", "A Change Is Gonna Come", "I Will Always Love You"],
+        "explanation": "These are soulful and empowering tracks with iconic vocal performances."
+    },
+    "Livin' on a Prayer": {
+        "recommendations": ["Eye of the Tiger", "More Than a Feeling", "Carry On Wayward Son"],
+        "explanation": "These are rock anthems with soaring vocals and inspirational themes."
+    },
+    "Born to Run": {
+        "recommendations": ["American Girl", "Runnin’ Down a Dream", "Life in the Fast Lane"],
+        "explanation": "These are energetic rock tracks celebrating freedom, ambition, and the open road."
+    },
+    "Yesterday": {
+        "recommendations": ["The Sound of Silence", "Vincent", "Cats in the Cradle"],
+        "explanation": "These are reflective and melodic tracks with poignant lyrics and timeless appeal."
+    },
+    "Karma Police": {
+        "recommendations": ["Fake Plastic Trees", "Boulevard of Broken Dreams", "Mad World"],
+        "explanation": "These are introspective tracks with atmospheric instrumentation and thought-provoking themes."
+    },
+    "One": {
+        "recommendations": ["Wonderwall", "The Scientist", "Chasing Cars"],
+        "explanation": "These are emotional and uplifting tracks with heartfelt lyrics and anthemic melodies."
+    },
+    "Wonder": {
+        "recommendations": ["Only Wanna Be with You", "Crash Into Me", "If You Could Only See"],
+        "explanation": "These are emotional and heartfelt songs with soothing melodies and relatable themes."
+    },
+    "Goodbye Yellow Brick Road": {
+        "recommendations": ["Rocket Man", "Tiny Dancer", "Daniel"],
+        "explanation": "These are Elton John classics known for their storytelling, rich melodies, and timeless appeal."
+    },
+    "Somebody to Love": {
+        "recommendations": ["Under Pressure", "Killer Queen", "We Are the Champions"],
+        "explanation": "These are Queen hits showcasing incredible vocal harmonies, dramatic energy, and theatrical rock."
+    },
+    "Nothing Else Matters": {
+        "recommendations": ["The Unforgiven", "Fade to Black", "Enter Sandman"],
+        "explanation": "These are heavy metal ballads with deep emotional impact, iconic guitar work, and profound lyrics."
+    },
+    "Hotel Yorba": {
+        "recommendations": ["Seven Nation Army", "Fell in Love with a Girl", "Blue Orchid"],
+        "explanation": "These are energetic and raw tracks from The White Stripes and similar garage rock staples."
+    },
+    "Take on Me": {
+        "recommendations": ["Everybody Wants to Rule the World", "Don't You (Forget About Me)", "Hungry Like the Wolf"],
+        "explanation": "These are 80s hits with unforgettable melodies, synth-pop vibes, and enduring popularity."
+    },
+    "Bad Romance": {
+        "recommendations": ["Toxic", "Disturbia", "Wannabe"],
+        "explanation": "These are high-energy pop hits with bold themes, dramatic elements, and memorable rhythms."
+    },
+    "Someone Like You": {
+        "recommendations": ["Stay With Me", "The Scientist", "All of Me"],
+        "explanation": "These are soulful ballads with powerful emotional resonance and heartfelt lyrics."
+    },
+    "Come As You Are": {
+        "recommendations": ["Plush", "Black Hole Sun", "Bullet with Butterfly Wings"],
+        "explanation": "These are grunge and alternative rock tracks with raw emotion, powerful riffs, and introspective themes."
+    },
+    "Chandelier": {
+        "recommendations": ["Stay", "The A Team", "Someone You Loved"],
+        "explanation": "These are emotional and powerful songs that feature soaring vocals and deeply moving storytelling."
+    },
+    "Firework": {
+        "recommendations": ["Stronger (What Doesn’t Kill You)", "Since U Been Gone", "Just the Way You Are"],
+        "explanation": "These are uplifting anthems with empowering lyrics and infectious energy."
+    },
+    "Africa": {
+        "recommendations": ["Hold On", "Jack and Diane", "Take It Easy"],
+        "explanation": "These are classic tracks with intricate melodies, nostalgic vibes, and timeless appeal."
+    },
+    "Smooth Criminal": {
+        "recommendations": ["Radioactive", "Blinding Lights", "Uptown Funk"],
+        "explanation": "These are iconic songs with engaging beats, rhythmic intensity, and strong hooks."
+    },
+    "Shape of You": {
+        "recommendations": ["Love Yourself", "Stay", "Havana"],
+        "explanation": "These are romantic tracks with acoustic elements and contemporary production styles."
+    },
+    "In the End": {
+        "recommendations": ["Boulevard of Broken Dreams", "The Pretender", "Somewhere I Belong"],
+        "explanation": "These are emotionally charged rock tracks with introspective lyrics and powerful arrangements."
+    },
+    "Let Her Go": {
+        "recommendations": ["Say You Won't Let Go", "I Will Always Love You", "Someone You Loved"],
+        "explanation": "These are heartfelt ballads with tender melodies and emotional lyrics about love and loss."
+    },
+    "Thinking Out Loud": {
+        "recommendations": ["A Thousand Years", "Just the Way You Are", "Gravity"],
+        "explanation": "These are romantic tracks with soothing melodies and lyrics that express deep affection."
+    },
+    "Crazy": {
+        "recommendations": ["Rehab", "The House of the Rising Sun", "Son of a Preacher Man"],
+        "explanation": "These are soulful and jazzy tracks with raw emotion and distinctive vocal styles."
+    },
+    "Sweet Home Alabama": {
+        "recommendations": ["American Pie", "Take It Easy", "The Joker"],
+        "explanation": "These are classic rock and folk tracks with timeless appeal and Americana vibes."
+    },
+    "Toxic": {
+        "recommendations": ["Bad Romance", "Can't Get You Out of My Head", "Just Dance"],
+        "explanation": "These are electrifying pop tracks with bold production and catchy rhythms."
+    },
+    "Piano Man": {
+        "recommendations": ["Bohemian Rhapsody", "Imagine", "Bridge Over Troubled Water"],
+        "explanation": "These are iconic tracks with rich storytelling, emotional depth, and memorable melodies."
+    },
+    "Eye of the Tiger": {
+        "recommendations": ["We Are the Champions", "Don't Stop Believin'", "Born to Run"],
+        "explanation": "These are anthemic rock tracks that inspire perseverance and determination."
+    },
+    "All of Me": {
+        "recommendations": ["Make You Feel My Love", "Stay", "I Don't Want to Miss a Thing"],
+        "explanation": "These are romantic ballads with heartfelt lyrics and emotionally evocative melodies."
+    },
+    "Highway to Hell": {
+        "recommendations": ["Smoke on the Water", "Born to Be Wild", "Hotel California"],
+        "explanation": "These are hard rock classics with powerful riffs and a rebellious spirit."
+    },
+    "A Thousand Miles": {
+        "recommendations": ["Bubbly", "You Belong with Me", "Jar of Hearts"],
+        "explanation": "These are heartfelt tracks with gentle melodies and emotional, relatable lyrics."
+    },
+    "Wish You Were Here": {
+        "recommendations": ["Hotel California", "Stairway to Heaven", "The Weight"],
+        "explanation": "These are timeless classics with deep lyrics, intricate instrumentation, and reflective themes."
+    },
+    "Uptown Girl": {
+        "recommendations": ["Crocodile Rock", "Maggie May", "Sweet Caroline"],
+        "explanation": "These are feel-good, upbeat songs with storytelling and enduring melodies."
+    },
+    "The Chain": {
+        "recommendations": ["House of the Rising Sun", "Turn! Turn! Turn!", "Both Sides Now"],
+        "explanation": "These are folk-rock tracks with harmonious vocals, deep emotions, and timeless appeal."
+    },
+    "Don't Stop Believin'": {
+        "recommendations": ["More Than a Feeling", "Carry On Wayward Son", "Free Bird"],
+        "explanation": "These are classic rock anthems with powerful instrumentation and uplifting themes."
+    },
+    "Under the Bridge": {
+        "recommendations": ["Everlong", "Wonderwall", "Lightning Crashes"],
+        "explanation": "These are introspective rock tracks with emotional lyrics and memorable melodies."
+    },
+    "Lose Yourself to Dance": {
+        "recommendations": ["Blinding Lights", "Treasure", "Can't Feel My Face"],
+        "explanation": "These are groove-heavy tracks with infectious rhythms and a danceable energy."
+    },
+    "Beat It": {
+        "recommendations": ["Eye of the Tiger", "We Will Rock You", "Born to Run"],
+        "explanation": "These are energetic, anthemic tracks with strong hooks and motivational vibes."
+    },
+    "I Want to Break Free": {
+        "recommendations": ["Take On Me", "Don't You (Forget About Me)", "Walking on Sunshine"],
+        "explanation": "These are uplifting and iconic tracks with catchy melodies and empowering themes."
+    },
+    "Welcome to the Jungle": {
+        "recommendations": ["Smells Like Teen Spirit", "Run to the Hills", "Enter Sandman"],
+        "explanation": "These are high-energy rock tracks with powerful riffs and intense vocals."
+    },
+    "Hey Ya!": {
+        "recommendations": ["Crazy", "Get Lucky", "Uptown Funk"],
+        "explanation": "These are vibrant and genre-blending tracks with infectious beats and memorable hooks."
+    },
+    "Man in the Mirror": {
+        "recommendations": ["Imagine", "What a Wonderful World", "Lean on Me"],
+        "explanation": "These are reflective and uplifting songs with meaningful lyrics and universal messages."
+    },
+    "Enter Sandman": {
+        "recommendations": ["Smoke on the Water", "Paranoid", "Run to the Hills"],
+        "explanation": "These are iconic hard rock and metal tracks with powerful riffs and intense energy."
+    },
+    "The Sound of Silence": {
+        "recommendations": ["Blowin' in the Wind", "Turn! Turn! Turn!", "The Boxer"],
+        "explanation": "These are introspective folk songs with poetic lyrics and haunting melodies."
+    },
+    "My Heart Will Go On": {
+        "recommendations": ["Time to Say Goodbye", "A Whole New World", "Somewhere"],
+        "explanation": "These are emotional and timeless ballads with soaring melodies and heartfelt themes."
+    },
+    "Poker Face": {
+        "recommendations": ["Toxic", "Call Me Maybe", "Hollaback Girl"],
+        "explanation": "These are catchy pop tracks with bold energy, playful lyrics, and danceable beats."
+    },
+    "Another Brick in the Wall": {
+        "recommendations": ["Hotel California", "Stairway to Heaven", "Kashmir"],
+        "explanation": "These are classic rock masterpieces with thought-provoking themes and intricate compositions."
+    },
+    "I Gotta Feeling": {
+        "recommendations": ["Uptown Funk", "Happy", "Party Rock Anthem"],
+        "explanation": "These are high-energy party anthems with infectious rhythms and uplifting vibes."
+    },
+    "Livin' La Vida Loca": {
+        "recommendations": ["Hips Don't Lie", "Despacito", "Bailando"],
+        "explanation": "These are upbeat Latin-inspired tracks with vibrant energy and danceable grooves."
+    },
+    "Clocks": {
+        "recommendations": ["Somewhere Only We Know", "Chasing Cars", "How to Save a Life"],
+        "explanation": "These are atmospheric and emotional songs with piano-driven melodies and reflective lyrics."
+    },
+    "Somebody That I Used to Know": {
+        "recommendations": ["Take Me to Church", "Ho Hey", "Skinny Love"],
+        "explanation": "These are emotional indie tracks with unique instrumentation and heartfelt storytelling."
+    },
+    "Yellow": {
+        "recommendations": ["Drops of Jupiter", "Boulevard of Broken Dreams", "The Reason"],
+        "explanation": "These are introspective and melodic tracks with a mix of emotional lyrics and uplifting melodies."
+    },
+    "Royals": {
+        "recommendations": ["Video Games", "Dog Days Are Over", "Young and Beautiful"],
+        "explanation": "These are moody and unique tracks with minimalist production and powerful vocal performances."
+    },
+    "Oops!... I Did It Again": {
+        "recommendations": ["Genie in a Bottle", "Milkshake", "Since U Been Gone"],
+        "explanation": "These are iconic pop tracks with catchy hooks and playful themes."
+    },
+    "Blinding Lights": {
+        "recommendations": ["Take On Me", "Physical", "Shut Up and Dance"],
+        "explanation": "These are energetic and retro-inspired tracks with infectious beats and vibrant production."
+    },
+    "Don't Let Me Down": {
+        "recommendations": ["Lean On", "Closer", "Stolen Dance"],
+        "explanation": "These are electronic tracks with captivating melodies and chill yet danceable vibes."
+    },
+    "Iris": {
+        "recommendations": ["Chasing Cars", "You and Me", "Collide"],
+        "explanation": "These are heartfelt rock ballads with romantic lyrics and tender melodies."
+    },
+    "Umbrella": {
+        "recommendations": ["Unbreakable", "Bleeding Love", "Battlefield"],
+        "explanation": "These are emotional pop tracks with powerful vocals and captivating production."
+    },
+    "Riptide": {
+        "recommendations": ["Ho Hey", "Little Talks", "Budapest"],
+        "explanation": "These are indie-folk tracks with warm melodies and introspective storytelling."
+    },
+    "Bad Guy": {
+        "recommendations": ["Toxic", "Seven Nation Army", "Royals"],
+        "explanation": "These are edgy and genre-defying tracks with unique beats and compelling vocals."
+    },
+    "Tears in Heaven": {
+        "recommendations": ["Hallelujah", "Knockin' on Heaven's Door", "The Sound of Silence"],
+        "explanation": "These are soulful ballads with deep emotional resonance and poignant lyrics."
+    },
+    "Castle on the Hill": {
+        "recommendations": ["Drops of Jupiter", "Chasing Cars", "Let Her Go"],
+        "explanation": "These are reflective and uplifting tracks with heartfelt lyrics and soaring melodies."
+    },
+    "Gangnam Style": {
+        "recommendations": ["What Makes You Beautiful", "Baby", "Shake It Off"],
+        "explanation": "These are fun and catchy pop tracks with high energy and wide appeal."
+    },
+    "Can't Stop the Feeling!": {
+        "recommendations": ["Shut Up and Dance", "Happy", "Sugar"],
+        "explanation": "These are feel-good, danceable tracks with infectious rhythms and cheerful vibes."
+    },
+    "Wake Me Up": {
+        "recommendations": ["Counting Stars", "Pompeii", "Clarity"],
+        "explanation": "These are energetic tracks blending acoustic elements with electronic beats."
+    },
+    "Rockstar": {
+        "recommendations": ["Sicko Mode", "Sunflower", "Lucid Dreams"],
+        "explanation": "These are hip-hop and rap-infused tracks with reflective lyrics and catchy hooks."
+    },
+    "Despacito": {
+        "recommendations": ["Señorita", "Calma", "La Bicicleta"],
+        "explanation": "These are Latin-inspired hits with vibrant rhythms and romantic themes."
+    },
+    "Halo": {
+        "recommendations": ["Rolling in the Deep", "Unwritten", "Because of You"],
+        "explanation": "These are powerful and emotional tracks with soaring vocals and heartfelt lyrics."
+    },
+    "Viva La Vida": {
+        "recommendations": ["Home", "Dog Days Are Over", "Use Somebody"],
+        "explanation": "These are anthemic tracks with uplifting themes and grand instrumentation."
+    },
+    "Survivor": {
+        "recommendations": ["Stronger", "Roar", "Fighter"],
+        "explanation": "These are empowering tracks with themes of resilience and strength."
+    },
+    "Stronger": {
+        "recommendations": ["Lose Yourself", "Power", "Can't Hold Us"],
+        "explanation": "These are motivational tracks with strong beats and lyrics about perseverance."
+    },
+    "Shake It Off": {
+        "recommendations": ["Party in the U.S.A.", "All About That Bass", "Firework"],
+        "explanation": "These are fun, energetic pop tracks with feel-good vibes and catchy hooks."
+    },
+    "Hello": {
+        "recommendations": ["Stay", "Say Something", "Fix You"],
+        "explanation": "These are heartfelt ballads with emotional lyrics and powerful vocal performances."
+    },
+    "All Star": {
+        "recommendations": ["Basket Case", "Flagpole Sitta", "1985"],
+        "explanation": "These are fun, upbeat alternative rock tracks with playful lyrics and catchy melodies."
+    },
+    "Crazy in Love": {
+        "recommendations": ["We Found Love", "Just Dance", "Roar"],
+        "explanation": "These are upbeat and empowering tracks with infectious energy and captivating rhythms."
+    },
+    "Call Me Maybe": {
+        "recommendations": ["Party in the U.S.A.", "Teenage Dream", "Me Too"],
+        "explanation": "These are fun, catchy pop tracks with playful lyrics and vibrant melodies."
+    },
+    "One More Time": {
+        "recommendations": ["Music Sounds Better with You", "Get Lucky", "Around the World"],
+        "explanation": "These are groove-heavy electronic tracks with danceable beats and hypnotic rhythms."
+    },
+    "Fireflies": {
+        "recommendations": ["Somewhere Only We Know", "Boulevard of Broken Dreams", "Home"],
+        "explanation": "These are reflective and whimsical tracks with emotional melodies and unique atmospheres."
+    },
+    "Wonderwall": {
+        "recommendations": ["Bittersweet Symphony", "Iris", "The Scientist"],
+        "explanation": "These are iconic rock ballads with deep emotional themes and memorable instrumentation."
+    },
+    "Sorry": {
+        "recommendations": ["Stay", "Attention", "Memories"],
+        "explanation": "These are pop tracks with smooth production, introspective lyrics, and a heartfelt vibe."
+    },
+    "Radioactive": {
+        "recommendations": ["Viva La Vida", "Seven Nation Army", "Clocks"],
+        "explanation": "These are powerful and anthemic tracks with bold instrumentation and dynamic energy."
+    },
+    "Old Town Road": {
+        "recommendations": ["Wagon Wheel", "Body Like a Back Road", "Cruise"],
+        "explanation": "These are country-inspired tracks with a modern twist and catchy hooks."
+    },
+    "Havana": {
+        "recommendations": ["Despacito", "Bailando", "Tequila"],
+        "explanation": "These are Latin-influenced hits with sultry melodies and vibrant rhythms."
+    },
+    "Take Me to Church": {
+        "recommendations": ["Skinny Love", "Someone Like You", "Stay With Me"],
+        "explanation": "These are emotional ballads with haunting vocals and deeply introspective lyrics."
+    },
+    "Lean On": {
+        "recommendations": ["Where Are Ü Now", "Closer", "Stolen Dance"],
+        "explanation": "These are electronic tracks with a chill vibe, smooth production, and catchy melodies."
+    },
+    "Let Me Love You": {
+        "recommendations": ["Shape of You", "Perfect", "Thinking Out Loud"],
+        "explanation": "These are romantic tracks with tender lyrics and captivating melodies."
+    },
+    "Sunflower": {
+        "recommendations": ["Sweater Weather", "Electric Feel", "Take a Walk"],
+        "explanation": "These are indie-pop tracks with laid-back vibes and catchy rhythms."
+    },
+    "Shallow": {
+        "recommendations": ["All of Me", "I Will Always Love You", "Time After Time"],
+        "explanation": "These are heartfelt ballads with raw emotion and powerful vocal performances."
+    },
+    "Happier": {
+        "recommendations": ["Stay", "Let Me Go", "Be Alright"],
+        "explanation": "These are emotional tracks with reflective lyrics and soothing melodies."
+    },
+    "Dancing Queen": {
+        "recommendations": ["September", "We Are Family", "You Make My Dreams"],
+        "explanation": "These are disco and pop classics with upbeat melodies and celebratory vibes."
+    },
+    "Rock with You": {
+        "recommendations": ["Ain't Nobody", "Celebration", "Superstition"],
+        "explanation": "These are funk and disco tracks with smooth rhythms and danceable grooves."
+    },
+    "Lose My Breath": {
+        "recommendations": ["Can't Hold Us", "Run the World (Girls)", "We Found Love"],
+        "explanation": "These are energetic tracks with empowering lyrics and dynamic rhythms."
+    },
+    "Counting Stars": {
+        "recommendations": ["Pompeii", "Chasing Cars", "How to Save a Life"],
+        "explanation": "These are introspective tracks with emotional lyrics and uplifting melodies."
+    },
+    "Party Rock Anthem": {
+        "recommendations": ["Uptown Funk", "Shut Up and Dance", "Tik Tok"],
+        "explanation": "These are high-energy dance tracks with infectious beats and party vibes."
+    },
+    "U Can't Touch This": {
+        "recommendations": ["Walk This Way", "Gonna Make You Sweat", "Jump Around"],
+        "explanation": "These are iconic tracks with bold beats, memorable hooks, and timeless energy."
+    },
+    "Pumped Up Kicks": {
+        "recommendations": ["Take a Walk", "Electric Feel", "Sail"],
+        "explanation": "These are indie-pop and alternative tracks with unique instrumentation and catchy rhythms."
+    },
+    "Girls Like You": {
+        "recommendations": ["Say You Won't Let Go", "Just the Way You Are", "Love Me Like You Do"],
+        "explanation": "These are romantic pop tracks with smooth production and heartfelt lyrics."
+    },
+    "I Want It That Way": {
+        "recommendations": ["Bye Bye Bye", "Truly Madly Deeply", "Everytime"],
+        "explanation": "These are nostalgic pop ballads with emotional themes and timeless appeal."
+    },
+    "Sorry Not Sorry": {
+        "recommendations": ["Confident", "Shake It Off", "Hollaback Girl"],
+        "explanation": "These are bold pop anthems with sassy lyrics and empowering energy."
+    },
+    "Super Bass": {
+        "recommendations": ["Fancy", "Work It", "Milkshake"],
+        "explanation": "These are playful and high-energy tracks with strong beats and charismatic delivery."
+    },
+    "One Dance": {
+        "recommendations": ["Work", "Blinding Lights", "In My Feelings"],
+        "explanation": "These are rhythmic tracks with smooth production and captivating melodies."
+    },
+    "Hotline Bling": {
+        "recommendations": ["Say So", "Peaches", "Sunflower"],
+        "explanation": "These are mellow and groovy tracks with catchy hooks and chill vibes."
+    },
+    "Blurred Lines": {
+        "recommendations": ["Marry You", "Sugar", "Can't Stop the Feeling!"],
+        "explanation": "These are fun and upbeat pop tracks with smooth production and feel-good energy."
+    },
+    "Rock Your Body": {
+        "recommendations": ["Treasure", "Locked Out of Heaven", "Rock With You"],
+        "explanation": "These are funky and rhythmic tracks with smooth melodies and danceable grooves."
+    },
+    "Feel Good Inc.": {
+        "recommendations": ["Paper Planes", "1901", "Somebody That I Used to Know"],
+        "explanation": "These are alternative tracks with unique production and captivating lyrics."
+    },
+    "I Knew You Were Trouble": {
+        "recommendations": ["Wrecking Ball", "Bad Romance", "Since U Been Gone"],
+        "explanation": "These are powerful pop tracks with emotional lyrics and dramatic production."
+    },
+    "Rude": {
+        "recommendations": ["Banana Pancakes", "Somewhere Over the Rainbow", "I'm Yours"],
+        "explanation": "These are mellow and breezy tracks with feel-good vibes and uplifting themes."
+    },
+    "Happy": {
+        "recommendations": ["Shake It Off", "Don't Stop Me Now", "Firework"],
+        "explanation": "These are uplifting and joyful tracks with vibrant melodies and positive energy."
+    },
+    "Don't Stop the Music": {
+        "recommendations": ["Let's Get Loud", "Hung Up", "Toxic"],
+        "explanation": "These are dance-pop hits with infectious beats and electrifying energy."
+    },
+    "We Are Young": {
+        "recommendations": ["Ho Hey", "Little Talks", "Take Me to Church"],
+        "explanation": "These are indie tracks with anthemic qualities, emotional depth, and strong vocal dynamics."
+    },
+    "Some Nights": {
+        "recommendations": ["Radioactive", "Pompeii", "Shut Up and Dance"],
+        "explanation": "These are energetic and introspective tracks with unique production and engaging choruses."
+    },
+    "Somebody Told Me": {
+        "recommendations": ["Are You Gonna Be My Girl", "The Middle", "Sex on Fire"],
+        "explanation": "These are alternative rock hits with energetic instrumentation and infectious hooks."
+    },
+    "Boulevard of Broken Dreams": {
+        "recommendations": ["Creep", "Everlong", "Lightning Crashes"],
+        "explanation": "These are introspective rock tracks with powerful emotions and memorable melodies."
+    },
+    "Gives You Hell": {
+        "recommendations": ["1985", "Flagpole Sitta", "Ocean Avenue"],
+        "explanation": "These are fun, upbeat alternative rock tracks with relatable lyrics and high energy."
+    },
+    "Wrecking Ball": {
+        "recommendations": ["Someone Like You", "When I Was Your Man", "Jar of Hearts"],
+        "explanation": "These are emotionally charged pop ballads with heartfelt lyrics and powerful vocal performances."
+    },
+    "Say My Name": {
+        "recommendations": ["We Found Love", "Roar", "Unwritten"],
+        "explanation": "These are empowering pop tracks with dynamic production and uplifting themes."
+    },
+    "Don't Speak": {
+        "recommendations": ["Breathe (2 AM)", "Torn", "Kiss Me"],
+        "explanation": "These are emotional pop-rock tracks with heartfelt lyrics and melodic appeal."
+    },
+    "Bye Bye Bye": {
+        "recommendations": ["Everybody (Backstreet's Back)", "What Makes You Beautiful", "As Long as You Love Me"],
+        "explanation": "These are iconic boy band tracks with catchy hooks and danceable beats."
+    },
+    "Genie in a Bottle": {
+        "recommendations": ["...Baby One More Time", "Toxic", "Milkshake"],
+        "explanation": "These are playful pop tracks with captivating production and memorable choruses."
+    },
+    "Since U Been Gone": {
+        "recommendations": ["Behind These Hazel Eyes", "Breakaway", "Sk8er Boi"],
+        "explanation": "These are energetic pop-rock tracks with empowering lyrics and powerful vocals."
+    },
+    "Hot Stuff": {
+        "recommendations": ["Le Freak", "Stayin' Alive", "You Make Me Feel (Mighty Real)"],
+        "explanation": "These are disco classics with infectious grooves and danceable energy."
+    },
+    "Every Breath You Take": {
+        "recommendations": ["Careless Whisper", "With or Without You", "Time After Time"],
+        "explanation": "These are iconic ballads with emotional lyrics and captivating melodies."
+    },
+    "The Way You Make Me Feel": {
+        "recommendations": ["Treasure", "Crazy in Love", "Rock Your Body"],
+        "explanation": "These are upbeat tracks with smooth rhythms and irresistible grooves."
+    },
+"Kiss": {
+        "recommendations": ["Superstition", "Let’s Groove", "Sexual Healing"],
+        "explanation": "These are funky and soulful tracks with smooth production and timeless appeal."
+    },
+    "Ain't No Sunshine": {
+        "recommendations": ["Georgia on My Mind", "Wonderful World", "Try a Little Tenderness"],
+        "explanation": "These are soulful ballads with heartfelt lyrics and rich instrumentation."
+    },
+    "Brown Eyed Girl": {
+        "recommendations": ["Sweet Caroline", "American Pie", "Take It Easy"],
+        "explanation": "These are timeless feel-good tracks with memorable melodies and nostalgic vibes."
+    },
+    "Mr. Brightside": {
+        "recommendations": ["Everlong", "All the Small Things", "The Middle"],
+        "explanation": "These are high-energy rock tracks with anthemic choruses and emotional lyrics."
+    },
+    "Thriller": {
+        "recommendations": ["Uptown Funk", "Blurred Lines", "Le Freak"],
+        "explanation": "These are iconic tracks with funky grooves, danceable beats, and bold production."
+    },
+    "American Pie": {
+        "recommendations": ["Take Me Home, Country Roads", "The Weight", "Cat’s in the Cradle"],
+        "explanation": "These are storytelling classics with rich narratives and memorable melodies."
+    },
+    "Free Fallin'": {
+        "recommendations": ["Horse with No Name", "Dust in the Wind", "Landslide"],
+        "explanation": "These are acoustic-driven tracks with reflective lyrics and timeless appeal."
+    },
+    "Sweet Dreams": {
+        "recommendations": ["Don’t You (Forget About Me)", "Everybody Wants to Rule the World", "Take On Me"],
+        "explanation": "These are synth-pop classics with iconic production and catchy hooks."
+    },
+    "With or Without You": {
+        "recommendations": ["Clocks", "Yellow", "Fix You"],
+        "explanation": "These are emotional rock ballads with atmospheric production and heartfelt lyrics."
+    },
+    "Take It Easy": {
+        "recommendations": ["Peaceful Easy Feeling", "Jack & Diane", "Sweet Home Alabama"],
+        "explanation": "These are relaxed rock tracks with nostalgic vibes and sing-along melodies."
+    },
+    "Go Your Own Way": {
+        "recommendations": ["Free Bird", "Don’t Stop", "Landslide"],
+        "explanation": "These are iconic rock tracks with heartfelt lyrics and timeless instrumentation."
+    },
+    "Rock and Roll All Nite": {
+        "recommendations": ["Highway to Hell", "Smoke on the Water", "Sweet Emotion"],
+        "explanation": "These are classic rock anthems with powerful energy and unforgettable riffs."
+    },
+    "You Give Love a Bad Name": {
+        "recommendations": ["Pour Some Sugar on Me", "Here I Go Again", "Nothin’ But a Good Time"],
+        "explanation": "These are high-energy rock tracks with soaring vocals and bold guitar riffs."
+    },
+    "Crazy Little Thing Called Love": {
+        "recommendations": ["Sharp Dressed Man", "American Woman", "Tush"],
+        "explanation": "These are rock classics with a playful twist and engaging rhythms."
+    },
+    "Sweet Emotion": {
+        "recommendations": ["Back in Black", "Barracuda", "Whole Lotta Love"],
+        "explanation": "These are hard rock staples with powerful instrumentation and iconic grooves."
+    },
+    "Don't Stop 'Til You Get Enough": {
+        "recommendations": ["Let’s Groove", "We Are Family", "Celebration"],
+        "explanation": "These are funky and uplifting tracks with infectious energy and danceable beats."
+    },
+    "Jack & Diane": {
+        "recommendations": ["Summer of ’69", "Born to Run", "The Boys Are Back in Town"],
+        "explanation": "These are nostalgic rock tracks with relatable themes and enduring appeal."
+    },
+    "Billie Jean": {
+        "recommendations": ["Blurred Lines", "Uptown Funk", "Can’t Stop the Feeling!"],
+        "explanation": "These are funky, rhythmic tracks with iconic beats and captivating hooks."
+    },
+    "Sweet Caroline": {
+        "recommendations": ["American Pie", "Take Me Home, Country Roads", "Daydream Believer"],
+        "explanation": "These are feel-good classics with sing-along melodies and nostalgic charm."
+    },
+    "Dream On": {
+        "recommendations": ["Bohemian Rhapsody", "Stairway to Heaven", "Free Bird"],
+        "explanation": "These are epic rock ballads with soaring melodies and emotional intensity."
+    },
+    "Message in a Bottle": {
+        "recommendations": ["More Than a Feeling", "Go Your Own Way", "Reeling in the Years"],
+        "explanation": "These are rock tracks with intricate instrumentation and memorable lyrics."
+    },
+    "I Want You Back": {
+        "recommendations": ["Superstition", "Signed, Sealed, Delivered I'm Yours", "Uptown Girl"],
+        "explanation": "These are upbeat tracks with infectious rhythms and timeless melodies."
+    },
+    "My Girl": {
+        "recommendations": ["Stand by Me", "Ain’t No Mountain High Enough", "You Send Me"],
+        "explanation": "These are soulful classics with heartfelt lyrics and smooth melodies."
+    },
+    "Let's Stay Together": {
+        "recommendations": ["At Last", "Try a Little Tenderness", "Unchained Melody"],
+        "explanation": "These are romantic tracks with soulful vocals and timeless arrangements."
+    },
+    "Tiny Dancer": {
+        "recommendations": ["Landslide", "Vincent", "Candle in the Wind"],
+        "explanation": "These are reflective ballads with poetic lyrics and gentle instrumentation."
+    },
+    "Blackbird": {
+        "recommendations": ["The Boxer", "Scarborough Fair", "Hallelujah"],
+        "explanation": "These are acoustic tracks with introspective lyrics and emotional depth."
+    },
+    "Fast Car": {
+        "recommendations": ["The Night We Met", "Breathe (2 AM)", "Shallow"],
+        "explanation": "These are heartfelt ballads with storytelling lyrics and evocative melodies."
+    },
+    "Rocket Man": {
+        "recommendations": ["Space Oddity", "Across the Universe", "A Horse with No Name"],
+        "explanation": "These are introspective tracks with cosmic themes and emotional depth."
+    },
+    "The Weight": {
+        "recommendations": ["American Pie", "Take It Easy", "Me and Bobby McGee"],
+        "explanation": "These are storytelling tracks with Americana vibes and timeless melodies."
+    },
+    "I Will Always Love You": {
+        "recommendations": ["Endless Love", "The Power of Love", "Un-break My Heart"],
+        "explanation": "These are powerful ballads with soaring vocals and emotional lyrics."
+    },
+    "Drops of Jupiter": {
+        "recommendations": ["Chasing Cars", "Boulevard of Broken Dreams", "Collide"],
+        "explanation": "These are emotional rock tracks with introspective lyrics and uplifting melodies."
+    },
+    "Mr. Jones": {
+        "recommendations": ["Semi-Charmed Life", "Run-Around", "3 AM"],
+        "explanation": "These are alternative rock tracks with catchy melodies and reflective themes."
+    },
+    "Come Together": {
+        "recommendations": ["Sympathy for the Devil", "Born to Be Wild", "Break On Through (To the Other Side)"],
+        "explanation": "These are classic rock tracks with strong rhythms and compelling energy."
+    },
+    "Walking on Sunshine": {
+        "recommendations": ["I’m a Believer", "Maniac", "Footloose"],
+        "explanation": "These are energetic and feel-good tracks with uplifting melodies and vibrant energy."
+    },
+    "Born to Be Wild": {
+        "recommendations": ["Radar Love", "Sweet Emotion", "Highway Star"],
+        "explanation": "These are hard rock tracks with driving rhythms and bold energy."
+    },
+    "Good Vibrations": {
+        "recommendations": ["California Dreamin’", "Summer in the City", "Happy Together"],
+        "explanation": "These are vibrant, summery tracks with rich harmonies and iconic melodies."
+    },
+    "Take Me Home, Country Roads": {
+        "recommendations": ["The Gambler", "Forever and Ever, Amen", "Thank God I’m a Country Boy"],
+        "explanation": "These are country classics with heartfelt lyrics and nostalgic charm."
+    },
+    "Light My Fire": {
+        "recommendations": ["Sunshine of Your Love", "White Room", "Time of the Season"],
+        "explanation": "These are psychedelic rock tracks with memorable riffs and evocative atmospheres."
+    },
+    "Jolene": {
+        "recommendations": ["Crazy", "I Hope You Dance", "Delta Dawn"],
+        "explanation": "These are country ballads with emotional depth and captivating storytelling."
+    }
 }

@@ -15,7 +15,8 @@ app.get("/recommendations", (req, res) => {
     if (recData[song]) {
         res.json({
             song,
-            recommendations: recData[song]
+            recommendations: recData[song].recommendations,
+            explanation: recData[song].explanation
         });
     } else {
         res.status(404).json({
